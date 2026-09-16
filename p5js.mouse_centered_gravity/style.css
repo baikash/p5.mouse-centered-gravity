@@ -1,0 +1,17 @@
+html {
+  height: max-content;
+}
+
+
+body {
+  margin: 0;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+
+  position: fixed;
+  cursor: pointer;
+}
+
+
